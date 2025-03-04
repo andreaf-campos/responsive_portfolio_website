@@ -1,5 +1,5 @@
 # Responsive Portfolio Website
-### by Andrea Campos, March 2025
+### by Andrea Campos, July 2023
 
 This project is a responsive portfolio website built using HTML, CSS, JavaScript, and Bootstrap 5. The website is designed to showcase professional experience of a person, projects, personal references, and published articles, along with ways to contact the person. It features an adaptable layout that adjusts to different screen sizes.
 
